@@ -1,0 +1,79 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1434254",
+      "name": "电话",
+      "font_class": "dianhua",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "1731979",
+      "name": "回到顶部2",
+      "font_class": "huidaodingbu",
+      "unicode": "e683",
+      "unicode_decimal": 59011
+    },
+    {
+      "icon_id": "1802283",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "1855912",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "2388474",
+      "name": "二维码",
+      "font_class": "erweima",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "5015946",
+      "name": "微博",
+      "font_class": "weibo",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "8078419",
+      "name": "购物袋",
+      "font_class": "gouwudai",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "8204272",
+      "name": "我 的",
+      "font_class": "wode1",
+      "unicode": "e5c9",
+      "unicode_decimal": 58825
+    },
+    {
+      "icon_id": "8759702",
+      "name": "电话",
+      "font_class": "weibiaoti-",
+      "unicode": "e53c",
+      "unicode_decimal": 58684
+    },
+    {
+      "icon_id": "9300064",
+      "name": "时钟",
+      "font_class": "shizhong",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+/*样式重置文件*/
+
+body,
+p,
+h1,
+h2,
+h3,
+h4 {
+    margin: 0;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+img{
+    /* 这个border只有在IE浏览器才会显示出来,但是严谨起见还是写上 */
+    border: none;
+    vertical-align: middle;
+}
+
+a{
+    text-decoration: none;
+    color: #000000;
+}
+
+button{
+    margin: 0;
+    padding: 0;
+    /* 按钮点击的时候会出现的一个框 outline去除*/
+    outline: none;
+}
+
+/*初始化body*/
+body{
+    line-height: 24px;
+    font: 14px Helvetica Neue,Helvetica,PingFang SC,\5FAE\8F6F\96C5\9ED1,Tahoma,Arial,sans-serif;
+}
+
+/*左浮动*/
+.fl{
+    float: left;
+}
+
+/*右浮动*/
+.fr{
+    float: right;
+}
+
+/*清除浮动*/
+.clearFloat::after{
+    content: "";
+    display: block;
+    clear: both;
+}
+
+/* 中间居中显示层 */
+
+.layer{
+    width: 1200px;
+    margin: auto;
+}
